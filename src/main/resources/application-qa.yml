@@ -1,0 +1,4 @@
+guru:
+  username: QAYMLsuperuser
+  password: QAYMLdbPassword
+  jdbcUrl: QAYMLsomeUrl
